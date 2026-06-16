@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Mon, 15 Jun 2026 14:06:16 +0000</pubDate>
-    <lastBuildDate>Mon, 15 Jun 2026 14:06:16 +0000</lastBuildDate>
+    <pubDate>Tue, 16 Jun 2026 11:21:38 +0000</pubDate>
+    <lastBuildDate>Tue, 16 Jun 2026 11:21:38 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -640,6 +640,24 @@
       <guid isPermaLink="false">shiloh-creek-s03e10</guid>
       <pubDate>Sun, 14 Jun 2026 13:18:02 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e10.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 35 · Your People</title>
+      <itunes:title>Ep 35 · Your People</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>11</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Bramble the traveling storyteller has his bindle packed by the water again — and this time the friends realize they've started to count on him, and he's about to leave the way he always does. They try everything to make him stay, but you can't trick someone into belonging — you have to choose them. So Fern, the fawn who once left this very creek and chose to come home, steps forward and claims Bramble as one of their own. A warm story about how belonging is a choice: you pick your people, and they pick you, and the road doesn't undo it. Inspired by Ruth 1:16 — 'whither thou goest, I will go... thy people shall be my people.']]></description>
+      <itunes:summary>Bramble the traveling storyteller has his bindle packed by the water again — and this time the friends realize they've started to count on him, and he's about to leave the way he always does. They try everything to make him stay, but you can't trick someone into belonging — you have to choose them. So Fern, the fawn who once left this very creek and chose to come home, steps forward and claims Bramble as one of their own. A warm story about how belonging is a choice: you pick your people, and they pick you, and the road doesn't undo it. Inspired by Ruth 1:16 — 'whither thou goest, I will go... thy people shall be my people.'</itunes:summary>
+      <itunes:subtitle>Bramble the traveling storyteller has his bindle packed by the water again — and this time the friends realize they've started to count on him, and he's about to leave the way he always does. They try</itunes:subtitle>
+      <itunes:duration>00:19:27</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Bible story for kids, belonging, friendship, loyalty, Ruth, choosing your people, Fern, Bramble, Shiloh Creek, Christian kids, home, dolphins</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e11-your-people.mp3" length="46716345" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s03e11</guid>
+      <pubDate>Tue, 16 Jun 2026 11:21:40 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e11.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
