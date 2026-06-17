@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Tue, 16 Jun 2026 11:21:38 +0000</pubDate>
-    <lastBuildDate>Tue, 16 Jun 2026 11:21:38 +0000</lastBuildDate>
+    <pubDate>Wed, 17 Jun 2026 13:26:18 +0000</pubDate>
+    <lastBuildDate>Wed, 17 Jun 2026 13:26:18 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -656,8 +656,26 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e11-your-people.mp3" length="46716345" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e11</guid>
-      <pubDate>Tue, 16 Jun 2026 11:21:40 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 11:22:49 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e11.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 36 · You Can't Out-Swim It</title>
+      <itunes:title>Ep 36 · You Can't Out-Swim It</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>12</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[When Rex the river otter breaks something his friend worked hard on, he can't face it — so he does what otters do best and swims away. But the farther he runs, the heavier it gets: you can't out-swim a mistake. With a little help from a salmon that always finds its way home, Rex learns that running only makes it worse, and the way back is always open — because God doesn't give up on you, and a second chance is always waiting. Anchored in a line from the Bible — the book of Jonah, chapter three, verse one — when God came to Jonah a second time.]]></description>
+      <itunes:summary>When Rex the river otter breaks something his friend worked hard on, he can't face it — so he does what otters do best and swims away. But the farther he runs, the heavier it gets: you can't out-swim a mistake. With a little help from a salmon that always finds its way home, Rex learns that running only makes it worse, and the way back is always open — because God doesn't give up on you, and a second chance is always waiting. Anchored in a line from the Bible — the book of Jonah, chapter three, verse one — when God came to Jonah a second time.</itunes:summary>
+      <itunes:subtitle>When Rex the river otter breaks something his friend worked hard on, he can't face it — so he does what otters do best and swims away. But the farther he runs, the heavier it gets: you can't out-swim </itunes:subtitle>
+      <itunes:duration>00:18:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>rex, river otter, second chance, owning your mistakes, making it right, Jonah, running away, forgiveness, salmon, kids podcast, Bible stories for kids, Shiloh Creek, ages 4-12</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e12-you-can-t-out-swim-it.mp3" length="44389464" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s03e12</guid>
+      <pubDate>Wed, 17 Jun 2026 13:26:21 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e12.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
