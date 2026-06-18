@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Thu, 18 Jun 2026 04:06:40 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 04:06:40 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 09:23:17 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 09:23:17 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -692,8 +692,26 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e13-more-than-his-cheeks-could-hold.mp3" length="43426938" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e13</guid>
-      <pubDate>Thu, 18 Jun 2026 04:06:42 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 04:10:24 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e13.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 38 · The Warm in the Cold (Season 3 Finale)</title>
+      <itunes:title>Ep 38 · The Warm in the Cold (Season 3 Finale)</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>14</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Season 3 finale. The first snow falls on Shiloh Creek — and instead of hiding from the cold and dark, the whole gang gathers in the lantern-light, each friend bringing a little of what the year taught them. A warm song rises, and Old Timber sends the season off with the gentlest of truths: when the world goes cold and quiet, you're never alone — God is right in the midst of us, glad about us, singing over us. A cozy, funny, full-hearted close to Season 3. (Zephaniah 3:17)]]></description>
+      <itunes:summary>Season 3 finale. The first snow falls on Shiloh Creek — and instead of hiding from the cold and dark, the whole gang gathers in the lantern-light, each friend bringing a little of what the year taught them. A warm song rises, and Old Timber sends the season off with the gentlest of truths: when the world goes cold and quiet, you're never alone — God is right in the midst of us, glad about us, singing over us. A cozy, funny, full-hearted close to Season 3. (Zephaniah 3:17)</itunes:summary>
+      <itunes:subtitle>Season 3 finale. The first snow falls on Shiloh Creek — and instead of hiding from the cold and dark, the whole gang gathers in the lantern-light, each friend bringing a little of what the year taught</itunes:subtitle>
+      <itunes:duration>00:18:12</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Christian kids, season finale, winter, first snow, togetherness, Zephaniah, God with us, bedtime story, ages 4-12, Shiloh Creek</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e14-the-warm-in-the-cold--season-3-finale.mp3" length="43722176" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s03e14</guid>
+      <pubDate>Thu, 18 Jun 2026 09:23:19 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e14.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
