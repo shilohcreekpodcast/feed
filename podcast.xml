@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Wed, 17 Jun 2026 13:26:18 +0000</pubDate>
-    <lastBuildDate>Wed, 17 Jun 2026 13:26:18 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 04:06:40 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 04:06:40 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -674,8 +674,26 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e12-you-can-t-out-swim-it.mp3" length="44389464" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e12</guid>
-      <pubDate>Wed, 17 Jun 2026 13:26:21 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2026 13:35:30 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e12.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 37 · More Than His Cheeks Could Hold</title>
+      <itunes:title>Ep 37 · More Than His Cheeks Could Hold</itunes:title>
+      <itunes:season>3</itunes:season>
+      <itunes:episode>13</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Chitter the chipmunk can't stop gathering for the cold — cheeks bulging, his pile growing, certain it's never quite enough. When it all comes tumbling down, his friends help him find the day's real treasure: you were never meant to carry every worry by yourself. A gentle, funny story about handing your worries to God, who cares about you. (1 Peter 5:7)]]></description>
+      <itunes:summary>Chitter the chipmunk can't stop gathering for the cold — cheeks bulging, his pile growing, certain it's never quite enough. When it all comes tumbling down, his friends help him find the day's real treasure: you were never meant to carry every worry by yourself. A gentle, funny story about handing your worries to God, who cares about you. (1 Peter 5:7)</itunes:summary>
+      <itunes:subtitle>Chitter the chipmunk can't stop gathering for the cold — cheeks bulging, his pile growing, certain it's never quite enough. When it all comes tumbling down, his friends help him find the day's real tr</itunes:subtitle>
+      <itunes:duration>00:18:04</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Christian kids, worry, anxiety, calm, chipmunk, 1 Peter, trust God, bedtime story, ages 4-12, Shiloh Creek</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e13-more-than-his-cheeks-could-hold.mp3" length="43426938" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s03e13</guid>
+      <pubDate>Thu, 18 Jun 2026 04:06:42 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e13.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
