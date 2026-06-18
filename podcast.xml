@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Thu, 18 Jun 2026 09:23:17 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 09:23:17 +0000</lastBuildDate>
+    <pubDate>Thu, 18 Jun 2026 23:53:00 +0000</pubDate>
+    <lastBuildDate>Thu, 18 Jun 2026 23:53:00 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -710,8 +710,26 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e14-the-warm-in-the-cold--season-3-finale.mp3" length="43722176" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e14</guid>
-      <pubDate>Thu, 18 Jun 2026 09:23:19 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 09:25:26 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e14.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 39 · The First Green Thing</title>
+      <itunes:title>Ep 39 · The First Green Thing</itunes:title>
+      <itunes:season>4</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[First thaw has come, but spring hasn't reached the Creek yet. Bongo rallies a little expedition past the forest edge to find where spring BEGINS — and learns the first green thing is small, far from home, and got there by traveling. Anchored on the mustard seed (Mark 4).]]></description>
+      <itunes:summary>First thaw has come, but spring hasn't reached the Creek yet. Bongo rallies a little expedition past the forest edge to find where spring BEGINS — and learns the first green thing is small, far from home, and got there by traveling. Anchored on the mustard seed (Mark 4).</itunes:summary>
+      <itunes:subtitle>First thaw has come, but spring hasn't reached the Creek yet. Bongo rallies a little expedition past the forest edge to find where spring BEGINS — and learns the first green thing is small, far from h</itunes:subtitle>
+      <itunes:duration>00:19:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>spring, new beginnings, mustard seed, patience, noticing, adventure, Bongo, Mark 4</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e01-the-first-green-thing.mp3" length="47932311" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s04e01</guid>
+      <pubDate>Thu, 18 Jun 2026 23:53:02 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e01.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
