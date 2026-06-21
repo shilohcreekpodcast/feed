@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Thu, 18 Jun 2026 23:53:00 +0000</pubDate>
-    <lastBuildDate>Thu, 18 Jun 2026 23:53:00 +0000</lastBuildDate>
+    <pubDate>Sun, 21 Jun 2026 12:13:09 +0000</pubDate>
+    <lastBuildDate>Sun, 21 Jun 2026 12:13:09 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -542,13 +542,13 @@
       <description><![CDATA[Autumn comes to Shiloh Creek and the great sunflower by the rocks is done — and Zippy, who never stops, is sure the good things are ending for good. But Shelly, the quiet one who notices, kneels her down by the seeds the flower is dropping: a turning isn't an ending, it's a keeping. A gentle story about why you don't have to be afraid when things change — because the One who set the seasons turning never changes. Anchored in Malachi 3:6, 'For I am the LORD, I change not.' Ages 4-12.]]></description>
       <itunes:summary>Autumn comes to Shiloh Creek and the great sunflower by the rocks is done — and Zippy, who never stops, is sure the good things are ending for good. But Shelly, the quiet one who notices, kneels her down by the seeds the flower is dropping: a turning isn't an ending, it's a keeping. A gentle story about why you don't have to be afraid when things change — because the One who set the seasons turning never changes. Anchored in Malachi 3:6, 'For I am the LORD, I change not.' Ages 4-12.</itunes:summary>
       <itunes:subtitle>Autumn comes to Shiloh Creek and the great sunflower by the rocks is done — and Zippy, who never stops, is sure the good things are ending for good. But Shelly, the quiet one who notices, kneels her d</itunes:subtitle>
-      <itunes:duration>00:19:42</itunes:duration>
+      <itunes:duration>00:19:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords>kids podcast, Bible stories for kids, change, seasons, autumn, gratitude, faith, family-friendly, Malachi, God never changes, Christian kids, Shiloh Creek</itunes:keywords>
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
-      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e05-the-turning-day.mp3" length="47337674" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e05-the-turning-day.mp3?v=2" length="47389566" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e05</guid>
-      <pubDate>Thu, 11 Jun 2026 15:28:09 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2026 12:12:02 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e05.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -600,9 +600,9 @@
       <itunes:explicit>false</itunes:explicit>
       <itunes:keywords>kids podcast, Bible stories for kids, kindness, unseen good, faithfulness, perseverance, doing good, Garingo, Ranger Ray, Galatians, family-friendly, Christian kids, Shiloh Creek</itunes:keywords>
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
-      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e08-the-one-who-wasn-t-there.mp3?v=4" length="37054996" type="audio/mpeg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e08-the-one-who-wasn-t-there.mp3?v=5" length="37053074" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e08</guid>
-      <pubDate>Sat, 13 Jun 2026 04:37:12 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2026 12:12:02 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e08.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e01-the-first-green-thing.mp3" length="47932311" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e01</guid>
-      <pubDate>Thu, 18 Jun 2026 23:53:02 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 23:54:47 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e01.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
