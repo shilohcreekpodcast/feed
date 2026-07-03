@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Wed, 24 Jun 2026 03:28:22 +0000</pubDate>
-    <lastBuildDate>Wed, 24 Jun 2026 03:28:22 +0000</lastBuildDate>
+    <pubDate>Fri, 03 Jul 2026 06:25:57 +0000</pubDate>
+    <lastBuildDate>Fri, 03 Jul 2026 06:25:57 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -928,6 +928,42 @@
       <guid isPermaLink="false">shiloh-creek-s04e12</guid>
       <pubDate>Wed, 24 Jun 2026 00:37:52 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e12.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 51 · The Quietest BEHOLD</title>
+      <itunes:title>Ep 51 · The Quietest BEHOLD</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>1</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Garingo is sure every wonderful thing needs his BIG announcement to count. But when Fern has a small, private spring joy down by the creek, Garingo's grand BEHOLD nearly tramples it flat — and a parrot who loves the spotlight learns that the loveliest thing he can do with a big voice is hush the whole Creek so a quiet little moment can finally be heard.]]></description>
+      <itunes:summary>Garingo is sure every wonderful thing needs his BIG announcement to count. But when Fern has a small, private spring joy down by the creek, Garingo's grand BEHOLD nearly tramples it flat — and a parrot who loves the spotlight learns that the loveliest thing he can do with a big voice is hush the whole Creek so a quiet little moment can finally be heard.</itunes:summary>
+      <itunes:subtitle>Garingo is sure every wonderful thing needs his BIG announcement to count. But when Fern has a small, private spring joy down by the creek, Garingo's grand BEHOLD nearly tramples it flat — and a parro</itunes:subtitle>
+      <itunes:duration>00:18:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Bible stories for kids, family-friendly, Christian kids, Shiloh Creek, Garingo, quiet spirit, 1 Peter</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e01-the-quietest-behold.mp3" length="45317749" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s05e01</guid>
+      <pubDate>Sat, 20 Jun 2026 10:06:15 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e01.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 52 · The Line in the Mud</title>
+      <itunes:title>Ep 52 · The Line in the Mud</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>2</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[After rain leaves a perfect smooth ribbon of mud by the pond, Rex wants a splash lane and Zippy wants a listening lane. Bongo tries to be fair by drawing a line down the middle, Garingo makes it official in the loudest possible way, and Shelly sees the truth before she says it. When two good wishes turn into two noisy sides, Shelly has to stop waiting and help the friends make peace on purpose.]]></description>
+      <itunes:summary>After rain leaves a perfect smooth ribbon of mud by the pond, Rex wants a splash lane and Zippy wants a listening lane. Bongo tries to be fair by drawing a line down the middle, Garingo makes it official in the loudest possible way, and Shelly sees the truth before she says it. When two good wishes turn into two noisy sides, Shelly has to stop waiting and help the friends make peace on purpose.</itunes:summary>
+      <itunes:subtitle>After rain leaves a perfect smooth ribbon of mud by the pond, Rex wants a splash lane and Zippy wants a listening lane. Bongo tries to be fair by drawing a line down the middle, Garingo makes it offic</itunes:subtitle>
+      <itunes:duration>00:18:32</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Bible stories for kids, family-friendly, Christian kids, Shiloh Creek, Shelly, peacemakers, Matthew</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e02-the-line-in-the-mud.mp3" length="44545643" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s05e02</guid>
+      <pubDate>Fri, 03 Jul 2026 06:26:00 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e02.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
