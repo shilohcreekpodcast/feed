@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Fri, 03 Jul 2026 06:25:57 +0000</pubDate>
-    <lastBuildDate>Fri, 03 Jul 2026 06:25:57 +0000</lastBuildDate>
+    <pubDate>Thu, 06 Aug 2026 13:32:47 +0000</pubDate>
+    <lastBuildDate>Thu, 06 Aug 2026 13:32:47 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -962,8 +962,26 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e02-the-line-in-the-mud.mp3" length="44545643" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s05e02</guid>
-      <pubDate>Fri, 03 Jul 2026 06:26:00 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 17:48:12 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e02.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 53 · The Map That Wouldn't Sit Still</title>
+      <itunes:title>Ep 53 · The Map That Wouldn't Sit Still</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>3</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[A breezy morning keeps moving every leaf-marker on Zippy's perfect map to the blueberry patch. The more she fixes it, the less she can hear the friends beside her, until a quiet wrong turn leaves her sitting with the truth: she wanted certainty more than guidance. Fern notices the one steady sign, and Zippy learns to follow one good step at a time.]]></description>
+      <itunes:summary>A breezy morning keeps moving every leaf-marker on Zippy's perfect map to the blueberry patch. The more she fixes it, the less she can hear the friends beside her, until a quiet wrong turn leaves her sitting with the truth: she wanted certainty more than guidance. Fern notices the one steady sign, and Zippy learns to follow one good step at a time.</itunes:summary>
+      <itunes:subtitle>A breezy morning keeps moving every leaf-marker on Zippy's perfect map to the blueberry patch. The more she fixes it, the less she can hear the friends beside her, until a quiet wrong turn leaves her </itunes:subtitle>
+      <itunes:duration>00:18:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Bible stories for kids, family-friendly, Christian kids, Shiloh Creek, guidance, listening, Psalm</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e03-the-map-that-wouldn-t-sit-still.mp3" length="44381292" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s05e03</guid>
+      <pubDate>Fri, 10 Jul 2026 10:04:29 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e03.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
