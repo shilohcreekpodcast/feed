@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Thu, 20 Aug 2026 04:01:22 +0000</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 04:01:22 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 04:57:10 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 04:57:10 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -44,7 +44,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e01-welcome-to-shiloh-creek.mp3" length="17818770" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e01</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e01.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -62,7 +62,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e02-the-moonflower.mp3" length="17523576" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e02</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Sat, 06 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e02.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -80,7 +80,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e03-the-wind-did-it.mp3" length="16570225" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e03</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Sun, 07 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e03.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -98,7 +98,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e04-storm-at-shiloh-creek.mp3" length="16803887" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e04</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Mon, 08 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e04.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -116,7 +116,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e05-the-great-flood.mp3" length="19570799" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e05</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e05.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -134,7 +134,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e06-berry-season.mp3" length="19460903" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e06</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Wed, 10 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e06.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -152,7 +152,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e07-the-path-through.mp3" length="19840093" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e07</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Thu, 11 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e07.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -170,7 +170,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e08-best-rainy-day-ever.mp3" length="18334117" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e08</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Fri, 12 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e08.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -188,7 +188,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e09-the-bridge.mp3" length="20090455" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e09</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Sat, 13 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e09.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -206,7 +206,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e10-the-visitor.mp3" length="20600902" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e10</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Sun, 14 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e10.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -224,7 +224,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e11-shiloh-creek-olympics.mp3" length="20081747" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e11</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Mon, 15 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e11.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -242,7 +242,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s01e12-the-surprise.mp3" length="19047435" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s01e12</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Tue, 16 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s01e12.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -260,7 +260,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e01-the-smartest-animal-contest.mp3" length="17964153" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e01</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Wed, 17 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e01.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -278,7 +278,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e02-the-old-grudge.mp3" length="16159990" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e02</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Thu, 18 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e02.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -296,7 +296,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e03-the-long-friend.mp3" length="19986299" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e03</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Fri, 19 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e03.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -314,7 +314,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e04-the-new-one.mp3" length="19745870" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e04</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Sat, 20 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e04.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -332,7 +332,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e05-the-little-voice.mp3" length="20066287" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e05</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Sun, 21 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e05.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -350,7 +350,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e06-the-glad-goodbye.mp3" length="55031672" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e06</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Mon, 22 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e06.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -368,7 +368,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e07-the-not-yet-day.mp3" length="43705000" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e07</guid>
-      <pubDate>Fri, 05 Jun 2026 05:16:37 +0000</pubDate>
+      <pubDate>Tue, 23 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e07.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -386,7 +386,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e08-the-brave-small-thing.mp3" length="37486898" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e08</guid>
-      <pubDate>Fri, 05 Jun 2026 10:07:47 +0000</pubDate>
+      <pubDate>Wed, 24 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e08.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -404,7 +404,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e09-the-very-good-day.mp3" length="47551131" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e09</guid>
-      <pubDate>Sat, 06 Jun 2026 12:27:30 +0000</pubDate>
+      <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e09.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -422,7 +422,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e10-the-mending-day.mp3" length="46595407" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e10</guid>
-      <pubDate>Sat, 06 Jun 2026 11:02:51 +0000</pubDate>
+      <pubDate>Fri, 26 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e10.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -440,7 +440,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e11-the-quiet-ears.mp3" length="45519883" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e11</guid>
-      <pubDate>Sun, 07 Jun 2026 01:50:46 +0000</pubDate>
+      <pubDate>Sat, 27 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e11.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -458,7 +458,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s02e12-guess-whos-back.mp3" length="42081310" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s02e12</guid>
-      <pubDate>Mon, 08 Jun 2026 05:47:56 +0000</pubDate>
+      <pubDate>Sun, 28 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s02e12.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -476,7 +476,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e01-the-morning-that-started-twice.mp3" length="40684583" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e01</guid>
-      <pubDate>Thu, 11 Jun 2026 15:28:09 +0000</pubDate>
+      <pubDate>Mon, 29 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e01.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -494,7 +494,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e02-old-timber-s-turn.mp3" length="45147152" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e02</guid>
-      <pubDate>Thu, 11 Jun 2026 15:28:09 +0000</pubDate>
+      <pubDate>Tue, 30 Jun 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e02.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -512,7 +512,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e03-the-show-nobody-saw.mp3" length="47868991" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e03</guid>
-      <pubDate>Thu, 11 Jun 2026 15:28:09 +0000</pubDate>
+      <pubDate>Wed, 01 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e03.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -530,7 +530,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e04-the-dark-that-wasn-t-empty.mp3" length="46985896" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e04</guid>
-      <pubDate>Thu, 11 Jun 2026 15:28:09 +0000</pubDate>
+      <pubDate>Thu, 02 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e04.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -548,7 +548,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e05-the-turning-day.mp3?v=2" length="47389566" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e05</guid>
-      <pubDate>Sun, 21 Jun 2026 12:12:02 +0000</pubDate>
+      <pubDate>Fri, 03 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e05.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -566,7 +566,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e06-the-small-good-things.mp3" length="47985401" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e06</guid>
-      <pubDate>Thu, 11 Jun 2026 15:28:09 +0000</pubDate>
+      <pubDate>Sat, 04 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e06.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -584,7 +584,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e07-the-laugh-that-traveled.mp3?v=2" length="46149271" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e07</guid>
-      <pubDate>Fri, 12 Jun 2026 05:52:23 +0000</pubDate>
+      <pubDate>Sun, 05 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e07.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -602,7 +602,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e08-the-one-who-wasn-t-there.mp3?v=5" length="37053074" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e08</guid>
-      <pubDate>Sun, 21 Jun 2026 12:12:02 +0000</pubDate>
+      <pubDate>Mon, 06 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e08.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -620,7 +620,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e09-the-day-zippy-stopped.mp3" length="34942420" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e09</guid>
-      <pubDate>Sun, 14 Jun 2026 06:07:38 +0000</pubDate>
+      <pubDate>Tue, 07 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e09.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -638,7 +638,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e10-the-wonder-nobody-could-name.mp3" length="45657375" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e10</guid>
-      <pubDate>Sun, 14 Jun 2026 13:18:02 +0000</pubDate>
+      <pubDate>Wed, 08 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e10.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -656,7 +656,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e11-your-people.mp3" length="46716345" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e11</guid>
-      <pubDate>Tue, 16 Jun 2026 11:22:49 +0000</pubDate>
+      <pubDate>Thu, 09 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e11.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -674,7 +674,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e12-you-can-t-out-swim-it.mp3" length="44389464" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e12</guid>
-      <pubDate>Wed, 17 Jun 2026 13:35:30 +0000</pubDate>
+      <pubDate>Fri, 10 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e12.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -692,7 +692,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e13-more-than-his-cheeks-could-hold.mp3" length="43426938" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e13</guid>
-      <pubDate>Thu, 18 Jun 2026 04:10:24 +0000</pubDate>
+      <pubDate>Sat, 11 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e13.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -710,7 +710,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s03e14-the-warm-in-the-cold--season-3-finale.mp3" length="43722176" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s03e14</guid>
-      <pubDate>Thu, 18 Jun 2026 09:25:26 +0000</pubDate>
+      <pubDate>Sun, 12 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s03e14.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -728,7 +728,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e01-the-first-green-thing.mp3" length="47932311" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e01</guid>
-      <pubDate>Thu, 18 Jun 2026 23:54:47 +0000</pubDate>
+      <pubDate>Mon, 13 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e01.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -746,7 +746,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e02-the-question-hoot-couldn-t-answer.mp3" length="47388412" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e02</guid>
-      <pubDate>Tue, 23 Jun 2026 04:23:22 +0000</pubDate>
+      <pubDate>Tue, 14 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e02.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -764,7 +764,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e03-chitter-gives-it-all-away.mp3" length="45347452" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e03</guid>
-      <pubDate>Fri, 19 Jun 2026 15:25:04 +0000</pubDate>
+      <pubDate>Wed, 15 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e03.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -782,7 +782,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e04-the-slow-race.mp3" length="46713998" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e04</guid>
-      <pubDate>Sat, 20 Jun 2026 23:36:08 +0000</pubDate>
+      <pubDate>Thu, 16 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e04.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -800,7 +800,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e05-bramble-s-borderlands-spring.mp3" length="44889113" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e05</guid>
-      <pubDate>Sat, 20 Jun 2026 23:36:08 +0000</pubDate>
+      <pubDate>Fri, 17 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e05.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -818,7 +818,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e06-the-day-everybody-went.mp3" length="42522582" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e06</guid>
-      <pubDate>Fri, 19 Jun 2026 15:25:04 +0000</pubDate>
+      <pubDate>Sat, 18 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e06.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -836,7 +836,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e07-the-new-kid-by-the-creek.mp3" length="41735499" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e07</guid>
-      <pubDate>Fri, 19 Jun 2026 15:25:04 +0000</pubDate>
+      <pubDate>Sun, 19 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e07.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -854,7 +854,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e08-the-mudpuppy-improvement-plan.mp3" length="43372981" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e08</guid>
-      <pubDate>Fri, 19 Jun 2026 15:25:04 +0000</pubDate>
+      <pubDate>Mon, 20 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e08.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -872,7 +872,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e09-the-biggest-splash.mp3" length="43777668" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e09</guid>
-      <pubDate>Fri, 19 Jun 2026 15:25:04 +0000</pubDate>
+      <pubDate>Tue, 21 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e09.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -890,7 +890,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e10-the-one-quilla-kept.mp3" length="48803884" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e10</guid>
-      <pubDate>Tue, 23 Jun 2026 04:07:54 +0000</pubDate>
+      <pubDate>Wed, 22 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e10.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -908,7 +908,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e11-the-one-who-flew-all-night.mp3" length="42461106" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e11</guid>
-      <pubDate>Tue, 23 Jun 2026 04:23:22 +0000</pubDate>
+      <pubDate>Thu, 23 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e11.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -926,7 +926,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s04e12-look-how-it-grew--season-4-finale.mp3" length="46083036" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s04e12</guid>
-      <pubDate>Wed, 24 Jun 2026 00:37:52 +0000</pubDate>
+      <pubDate>Fri, 24 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s04e12.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -944,7 +944,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e01-the-quietest-behold.mp3" length="45317749" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s05e01</guid>
-      <pubDate>Sat, 20 Jun 2026 10:06:15 +0000</pubDate>
+      <pubDate>Sat, 25 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e01.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -962,7 +962,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e02-the-line-in-the-mud.mp3" length="44545643" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s05e02</guid>
-      <pubDate>Fri, 03 Jul 2026 17:48:12 +0000</pubDate>
+      <pubDate>Sun, 26 Jul 2026 00:00:00 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e02.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -980,7 +980,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e03-the-map-that-wouldn-t-sit-still.mp3" length="44381292" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s05e03</guid>
-      <pubDate>Fri, 10 Jul 2026 10:04:29 +0000</pubDate>
+      <pubDate>Thu, 13 Aug 2026 01:01:29 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e03.vtt" type="text/vtt" language="en"/>
     </item>
     <item>
@@ -998,7 +998,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e04-the-ride-he-chose.mp3" length="43249220" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s05e04</guid>
-      <pubDate>Sun, 26 Jul 2026 03:03:50 +0000</pubDate>
+      <pubDate>Thu, 20 Aug 2026 04:01:27 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e04.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
