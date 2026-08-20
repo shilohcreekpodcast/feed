@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Thu, 13 Aug 2026 01:01:25 +0000</pubDate>
-    <lastBuildDate>Thu, 13 Aug 2026 01:01:25 +0000</lastBuildDate>
+    <pubDate>Thu, 20 Aug 2026 03:53:46 +0000</pubDate>
+    <lastBuildDate>Thu, 20 Aug 2026 03:53:46 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -982,6 +982,24 @@
       <guid isPermaLink="false">shiloh-creek-s05e03</guid>
       <pubDate>Fri, 10 Jul 2026 10:04:29 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e03.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 54 · The Ride He Chose</title>
+      <itunes:title>Ep 54 · The Ride He Chose</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>4</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Jigstar remembers a holiday at a theme park where the biggest ride was an honest no, but another difficult ride became a brave yes. With his dad's patient encouragement, he discovers that courage can mean choosing wisely while still feeling scared.]]></description>
+      <itunes:summary>Jigstar remembers a holiday at a theme park where the biggest ride was an honest no, but another difficult ride became a brave yes. With his dad's patient encouragement, he discovers that courage can mean choosing wisely while still feeling scared.</itunes:summary>
+      <itunes:subtitle>Jigstar remembers a holiday at a theme park where the biggest ride was an honest no, but another difficult ride became a brave yes. With his dad's patient encouragement, he discovers that courage can </itunes:subtitle>
+      <itunes:duration>00:18:00</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Bible stories for kids, family-friendly, Christian kids, Shiloh Creek, courage, fear, wise choices, Psalm</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e04-the-ride-he-chose.mp3" length="43249220" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s05e04</guid>
+      <pubDate>Sun, 26 Jul 2026 03:03:50 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e04.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
