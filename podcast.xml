@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Tue, 25 Aug 2026 01:07:18 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 01:07:18 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 01:07:34 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:07:34 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -1034,8 +1034,26 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e06-bramble-comes-empty-handed.mp3" length="45710195" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s05e06</guid>
-      <pubDate>Tue, 25 Aug 2026 01:07:18 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 01:07:23 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e06.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 57 · The Borrowed Pouch</title>
+      <itunes:title>Ep 57 · The Borrowed Pouch</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>7</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[When Chitter's borrowed pouch disappears from its return place, his memory and Quilla's honest account seem impossible to reconcile. With Garingo, Bongo, Zippy, and Shelly helping reconstruct what each friend truly saw, they learn to repair anger before every missing fact is known.]]></description>
+      <itunes:summary>When Chitter's borrowed pouch disappears from its return place, his memory and Quilla's honest account seem impossible to reconcile. With Garingo, Bongo, Zippy, and Shelly helping reconstruct what each friend truly saw, they learn to repair anger before every missing fact is known.</itunes:summary>
+      <itunes:subtitle>When Chitter's borrowed pouch disappears from its return place, his memory and Quilla's honest account seem impossible to reconcile. With Garingo, Bongo, Zippy, and Shelly helping reconstruct what eac</itunes:subtitle>
+      <itunes:duration>00:18:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Bible stories for kids, family-friendly, Christian kids, Shiloh Creek, anger, honesty, friendship, repair, Ephesians</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e07-the-borrowed-pouch.mp3" length="43625840" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s05e07</guid>
+      <pubDate>Tue, 25 Aug 2026 01:07:34 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e07.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
