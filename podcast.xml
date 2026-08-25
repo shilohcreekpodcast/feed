@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Thu, 20 Aug 2026 04:57:10 +0000</pubDate>
-    <lastBuildDate>Thu, 20 Aug 2026 04:57:10 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 00:57:24 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 00:57:24 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -1000,6 +1000,24 @@
       <guid isPermaLink="false">shiloh-creek-s05e04</guid>
       <pubDate>Thu, 20 Aug 2026 04:01:27 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e04.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 55 · The Plunk That Answered Back</title>
+      <itunes:title>Ep 55 · The Plunk That Answered Back</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>5</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[After rain, three equal-width hollow reeds answer falling drips with three different plunks. Rex, Bramble, and Shelly race the drying sun to test every clue, until a quiet pause reveals how water, hollow lengths, and air made the creek's smallest mystery sing.]]></description>
+      <itunes:summary>After rain, three equal-width hollow reeds answer falling drips with three different plunks. Rex, Bramble, and Shelly race the drying sun to test every clue, until a quiet pause reveals how water, hollow lengths, and air made the creek's smallest mystery sing.</itunes:summary>
+      <itunes:subtitle>After rain, three equal-width hollow reeds answer falling drips with three different plunks. Rex, Bramble, and Shelly race the drying sun to test every clue, until a quiet pause reveals how water, hol</itunes:subtitle>
+      <itunes:duration>00:17:55</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Bible stories for kids, family-friendly, Christian kids, Shiloh Creek, curiosity, careful searching, wonder, Proverbs</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e05-the-plunk-that-answered-back.mp3" length="43028126" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s05e05</guid>
+      <pubDate>Tue, 25 Aug 2026 00:57:24 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e05.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
