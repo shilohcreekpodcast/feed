@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Tue, 25 Aug 2026 01:01:58 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 01:01:58 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 01:07:18 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:07:18 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -1034,7 +1034,7 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e06-bramble-comes-empty-handed.mp3" length="45710195" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s05e06</guid>
-      <pubDate>Tue, 25 Aug 2026 01:01:58 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 01:07:18 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e06.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
