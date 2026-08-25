@@ -27,8 +27,8 @@
     <itunes:keywords>kids,family,stories,bible,kindness,courage,honesty,bedtime,animals,podcast</itunes:keywords>
     <podcast:guid>bff7d3a9-31bd-5e2f-b9ec-3a5d2c1c80a4</podcast:guid>
     <podcast:locked owner="shilohcreekpodcast@gmail.com">yes</podcast:locked>
-    <pubDate>Tue, 25 Aug 2026 01:12:37 +0000</pubDate>
-    <lastBuildDate>Tue, 25 Aug 2026 01:12:37 +0000</lastBuildDate>
+    <pubDate>Tue, 25 Aug 2026 01:12:52 +0000</pubDate>
+    <lastBuildDate>Tue, 25 Aug 2026 01:12:52 +0000</lastBuildDate>
     <item>
       <title>Ep 1 · Welcome to Shiloh Creek</title>
       <itunes:title>Ep 1 · Welcome to Shiloh Creek</itunes:title>
@@ -1052,8 +1052,26 @@
       <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
       <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e07-the-borrowed-pouch.mp3" length="43625840" type="audio/mpeg"/>
       <guid isPermaLink="false">shiloh-creek-s05e07</guid>
-      <pubDate>Tue, 25 Aug 2026 01:12:37 +0000</pubDate>
+      <pubDate>Tue, 25 Aug 2026 01:12:42 +0000</pubDate>
       <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e07.vtt" type="text/vtt" language="en"/>
+    </item>
+    <item>
+      <title>Ep 58 · The Leaf They Didn't Touch</title>
+      <itunes:title>Ep 58 · The Leaf They Didn't Touch</itunes:title>
+      <itunes:season>5</itunes:season>
+      <itunes:episode>8</itunes:episode>
+      <itunes:episodeType>full</itunes:episodeType>
+      <description><![CDATA[Splish, Splash, and Splosh finally receive a serious job: guard Fern's marked lily leaf for ten quiet minutes without touching or moving it. Their promise bends beneath berries, reeds, ripples, and increasingly elaborate loopholes until the brothers must choose between looking dependable and telling the truth before Shelly returns.]]></description>
+      <itunes:summary>Splish, Splash, and Splosh finally receive a serious job: guard Fern's marked lily leaf for ten quiet minutes without touching or moving it. Their promise bends beneath berries, reeds, ripples, and increasingly elaborate loopholes until the brothers must choose between looking dependable and telling the truth before Shelly returns.</itunes:summary>
+      <itunes:subtitle>Splish, Splash, and Splosh finally receive a serious job: guard Fern's marked lily leaf for ten quiet minutes without touching or moving it. Their promise bends beneath berries, reeds, ripples, and in</itunes:subtitle>
+      <itunes:duration>00:19:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:keywords>kids podcast, Bible stories for kids, family-friendly, Christian kids, Shiloh Creek, honesty, promises, truth, responsibility, Matthew</itunes:keywords>
+      <itunes:image href="https://feed.shilohcreekpod.com/cover-art/series-cover.jpg"/>
+      <enclosure url="https://op3.dev/e/feed.shilohcreekpod.com/audio/s05e08-the-leaf-they-didn-t-touch.mp3" length="45911959" type="audio/mpeg"/>
+      <guid isPermaLink="false">shiloh-creek-s05e08</guid>
+      <pubDate>Tue, 25 Aug 2026 01:12:52 +0000</pubDate>
+      <podcast:transcript url="https://feed.shilohcreekpod.com/transcripts/s05e08.vtt" type="text/vtt" language="en"/>
     </item>
   </channel>
 </rss>
